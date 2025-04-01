@@ -75,4 +75,4 @@ Forms are accessible, using only vanilla/unstyled HTML elements, and CAPTCHA is 
 As the website is vanilla HTML with minimalistic CSS, all keyboard shortcuts that a user's browser supports are supported by Hacker News.
 
 ## Additional Notes
-Satire aside, ![](https://thebestmotherfucking.website/) is a school of thought I personally subscribe to. I believe that software should be only as complex as its functionality requires (after superfluous functionality has been pruned, of course), and the majority of websites violate this principle. Despite being for "techies," HackerNews follows this principle, as do the majority of websites and applications used by software developers, amateur or professional.
+Satire aside, `https://thebestmotherfucking.website/` is a school of thought I personally subscribe to. I believe that software should be only as complex as its functionality requires (after superfluous functionality has been pruned, of course), and the majority of websites violate this principle. Despite being for "techies," HackerNews follows this principle, as do the majority of websites and applications used by software developers, amateur or professional.
