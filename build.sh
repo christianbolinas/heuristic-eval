@@ -4,4 +4,6 @@ echo "Done. Building report..."
 pandoc report.md -o report.pdf
 echo "Done. Building slides..."
 pandoc report-slides.md -t beamer -o report-slides.pdf
+echo "Done. Building docx..."
+pandoc report.md -o report.docx
 echo "Done all jobs."
