@@ -39,15 +39,40 @@ As said before, the aforementioned navigation bar and link-centric UX are congru
 
 # Accessibility Heuristic
 ## Layout
+I tested a screen reader called "Screen Reader for Google Chrome," which is well-used and well-reviewed. The website's layout has clearly defined HTML elements that the screen reader can easily use, and it is able to parse them effectively and read out their content clearly.
+
 ## Design Elements
+A simple inspection of pages' sources reveals that this website uses "standard" HTML elements.
+
 ## Color
+The website uses the orange-accented theme of its parent Y Combinator. Backgrounds are white and beige, with the navigation bar accented in orange, with black links and text to clearly contrast with other colors.
+
 ## Writing
+Despite being a "techie"-focused website, the website (itself, not necessarily technical content displayed within) uses no jargon-- its menu bar displays "new, past, comments, ask, show, jobs, submit" which clearly display the functionality of the associated links, with the only bit of jargon being "points" to represent the amount of users that've clicked the "good article" (upvote) button.
+
 ## Font and Text
+A quick Google search says that this website uses a Verdana, a readable font similar to defaults on all patterns. It being not-monospace (unlike coding fonts) reduces eyestrain when reading prose. The text is black, which contrasts well with the light background.
+
 ## Text Organization
+A simple inspection of pages' sources reveals that this website uses "standard" HTML elements, which are hierarchical, and their display (via CSS) on the page displays this, with the navigation prominently at the top of the page, and a list of links displayed vertically, ordered by the amount of "positive votes."
+
 ## Images
+The website does not display images, eliminating the need for alt text and other accessibility concerns.
+
 ## Media
+This website does not itself display accessible alternative media for neurodiverse learners, as it is a primarily a discussion-based link aggregator-- it's about other pages.
+
 ## Buttons and Links
+Links and buttons use inbuilt HTML functionality, making them as error-tolerant as browsers are (and browsers are well-tested.) Links and buttons display where they go/what they do as text on the link/button itself.
+
 ## Navigation
+The menu bar is prominently displayed at the top of the page for all pages, which have the same layout. Navigation is accessible by clicking, browser-based keyboard shortcuts, and any other means for navigation a browser supports.
+
 ## Forms
+Forms are accessible, using only vanilla/unstyled HTML elements, and CAPTCHA is not used in registration.
+
 ## Keyboard Navigation
+As the website is vanilla HTML with minimalistic CSS, all keyboard shortcuts that a user's browser supports are supported by Hacker News.
+
 ## Additional Notes
+Satire aside, ![](https://thebestmotherfucking.website/) is a school of thought I personally subscribe to. I believe that software should be only as complex as its functionality requires (after superfluous functionality has been pruned, of course), and the majority of websites violate this principle. Despite being for "techies," HackerNews follows this principle, as do the majority of websites and applications used by software developers, amateur or professional.
